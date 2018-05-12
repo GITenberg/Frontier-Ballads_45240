@@ -1,0 +1,37 @@
+_repo: Frontier-Ballads_45240
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dixon, Maynard
+    aliases:
+    - Dixon, Lafayette Maynard
+    - Dixon, L. Maynard
+    birthdate: 1875
+    deathdate: 1946
+    gutenberg_agent_id: '34054'
+    url: http://www.gutenberg.org/2009/agents/34054
+covers:
+- cover_type: archival
+  image_path: 45240-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hanson, Joseph Mills
+    birthdate: 1876
+    gutenberg_agent_id: '41551'
+    url: http://www.gutenberg.org/2009/agents/41551
+description: ''
+gutenberg_issued: '2014-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45240'
+  lccn: '10023658'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Poetry'
+- !lcc 'PS'
+- !lcsh 'Folk songs, English -- West (U.S.)'
+title: Frontier Ballads
+url: http://www.gutenberg.org/ebooks/45240
